@@ -1,2 +1,2 @@
-SSH: mantenimiento
+SSH: activo (revisado)
 DNS: activo
